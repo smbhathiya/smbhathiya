@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **MERA Stack**
 
 - 📫 How to reach me **smbhathiya@gmail.com**
 
