@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **smbhathiya@gmail.com**
 
