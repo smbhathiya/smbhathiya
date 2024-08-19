@@ -1,44 +1,58 @@
 <h1 align="center">Hi 👋, I'm Bhathiya Lakshan</h1>
-<h3 align="center">Hello! I'm Bhathiya Lakshan, a passionate and dedicated Software Engineer. I have completed a Higher Diploma in Computing and Software Engineering. My journey in software development is fueled by my enthusiasm for learning and my commitment to delivering high-quality solutions.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=smbhathiya&label=Profile%20views&color=0e75b6&style=flat" alt="smbhathiya" /> </p>
+<h3 align="center">I'm Bhathiya Lakshan, a passionate and dedicated Full-Stack Developer specializing in .NET Core and Next.js. I have completed a Higher Diploma in Computing and Software Engineering. My journey in software development is driven by my enthusiasm for learning and my commitment to delivering high-quality, scalable solutions across both the front and back end.</h3>
 
----
-
-- 🌱 I’m currently learning **.NET**
-
-- 📫 How to reach me **smbhathiya@gmail.com**
-
-<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/bhathiya-lakshan-91579722a" target="blank">
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="bhathiya-lakshan-91579722a" height="30" width="40" /></a>
-<a href="https://fb.com/smbhathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smbhathiya" height="30" width="40" /></a>
-<a href="https://instagram.com/bhathiya_lakshan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="bhathiya_lakshan" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=smbhathiya&label=Profile%20views&color=0e75b6&style=flat" alt="smbhathiya" />
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
+<h2 align="center">ABOUT ME</h2>
+<p align="center">
+  🌱 I’m currently learning <b>.NET Core</b> and <b>Next.js</b><br><br>
+  📫 How to reach me: <a href="mailto:smbhathiya@gmail.com">smbhathiya@gmail.com</a>
+</p></br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smbhathiya&show_icons=true&theme=dark&locale=en&layout=compact" alt="smbhathiya" /></p>
+<h2 align="center">CONNECT WITH ME</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bhathiya-lakshan-91579722a/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"  height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.facebook.com/your-profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" alt="Facebook logo" />
+  </a>
+  <a href="https://instagram.com/bhathiya_lakshan" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"  height="40" alt="Instagram logo" />
+  </a>
+</div></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smbhathiya&show_icons=true&theme=dark&locale=en" alt="smbhathiya" /></p>
+<h2 align="center">LANGUAGES AND TOOLS</h2>
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET logo" />
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C# logo" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase logo" />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio logo" />
+    <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter logo" />
+    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop logo" />
+    <img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator logo" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
+  </p>
+</div></br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smbhathiya&show_icons=true&theme=dark&locale=en&layout=compact" alt="smbhathiya" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smbhathiya&show_icons=true&theme=dark&locale=en" alt="smbhathiya" />
+</p>
