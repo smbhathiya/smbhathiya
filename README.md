@@ -10,20 +10,15 @@
 <p align="center">
   🌱 I’m currently learning <b>.NET Core</b> and <b>Next.js</b><br><br>
   📫 How to reach me: <a href="mailto:smbhathiya@gmail.com">smbhathiya@gmail.com</a>
-</p></br>
+</p>
 
-<h2 align="center">CONNECT WITH ME</h2>
+###
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/bhathiya-lakshan-91579722a/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"  height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.facebook.com/your-profile" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" alt="Facebook logo" />
-  </a>
-  <a href="https://instagram.com/bhathiya_lakshan" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"  height="40" alt="Instagram logo" />
-  </a>
-</div></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=smbhathiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smbhathiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 <h2 align="center">LANGUAGES AND TOOLS</h2>
 <div align="center">
@@ -47,10 +42,21 @@
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
   </p>
-</div></br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smbhathiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smbhathiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="center">CONNECT WITH ME</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bhathiya-lakshan-91579722a/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"  height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.facebook.com/your-profile" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" alt="Facebook logo" />
+  </a>
+  <a href="https://instagram.com/bhathiya_lakshan" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"  height="40" alt="Instagram logo" />
+  </a>
+</div>
+
 </p>
