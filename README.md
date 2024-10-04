@@ -1,6 +1,6 @@
-## Hi 👋, I'm Bhathiya Lakshan
+# Hi 👋, I'm Bhathiya Lakshan
 
-#### I'm Bhathiya Lakshan, a passionate and dedicated Full-Stack Developer specializing in .NET Core and Next.js. I have completed a Higher Diploma in Computing and Software Engineering. My journey in software development is driven by my enthusiasm for learning and my commitment to delivering high-quality, scalable solutions across both the front and back end.
+### I'm Bhathiya Lakshan, a passionate and dedicated Full-Stack Developer specializing in .NET Core and Next.js. I have completed a Higher Diploma in Computing and Software Engineering. My journey in software development is driven by my enthusiasm for learning and my commitment to delivering high-quality, scalable solutions across both the front and back end.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=smbhathiya&label=Profile%20views&color=0e75b6&style=flat" alt="smbhathiya" />
