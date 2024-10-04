@@ -1,0 +1,35 @@
+name: Generate Snake Contribution Graph
+
+# Controls when the action will run. This runs every 6 hours (you can adjust this schedule)
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch: # Allows you to manually trigger the workflow if needed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the snake graph
+      - name: Generate Snake Contribution Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: smbhathiya
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Step 3: Push the generated snake graph to the repository
+      - name: Commit and push the generated snake graph
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add -A
+          git commit -m "Generated snake graph"
+          git push
