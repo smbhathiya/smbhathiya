@@ -49,9 +49,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
 </div>
 </br>
 
