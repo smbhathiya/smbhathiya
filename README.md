@@ -10,8 +10,8 @@
 
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=smbhathiya&show_icons=true&theme=dracula&locale=en" alt="smbhathiya" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smbhathiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img  src="https://github-readme-stats.vercel.app/api?username=smbhathiya&show_icons=true&theme=tokyonight&locale=en" alt="smbhathiya" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smbhathiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 #
@@ -76,7 +76,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=smbhathiya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=smbhathiya&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
