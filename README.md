@@ -4,6 +4,12 @@
 
 ###
 
+## 🌐 Portfolio
+
+Check out my portfolio here: [**https://bhathiya.dev**](https://bhathiya.dev)
+
+###
+
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=smbhathiya&icon=0&color=1)](https://visitcount.itsvg.in)
