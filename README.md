@@ -16,8 +16,8 @@ Check out my portfolio here: [**https://bhathiya.dev**](https://bhathiya.dev)
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=smbhathiya&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smbhathiya&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact) </div>
+![](https://github-readme-stats.vercel.app/api?username=smbhathiya&theme=radical&hide_border=true&include_all_commits=false&count_private=false)&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smbhathiya&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) </div>
 
 ## TECH STACK
 
